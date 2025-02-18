@@ -3,7 +3,7 @@
  * Plugin Name: Custom Download Block
  * Description: A Gutenberg block for a Download PDF button with an SVG icon.
  * Version: 1.0
- * Author: Your Name
+ * Author: Peter Okafor
  */
 
 if (!defined('ABSPATH')) {
